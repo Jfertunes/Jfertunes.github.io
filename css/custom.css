@@ -1,3 +1,24 @@
+/*****HEADER******/
+.logo {
+	font-size: 40px;
+	font-weight: 900;
+}
+
+/******TYPOGRAPHY******/
+h3 {
+	font-size: 18px;
+	margin-bottom: 2px !important;
+}
+.small {
+	font-size: 14px !important;
+	margin-bottom: 32px !important;
+}
+
+.margin-bottom-2 {
+    margin-bottom: 8px !important;
+}
+
+/*****FOOTER*****/
 .fa-linkedin {
 	font-size: 34px;
 }
