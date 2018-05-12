@@ -27,3 +27,11 @@ h3 {
     text-transform: uppercase;
     font-weight: 600;
 }
+
+/*******SIDEBAR*****/
+.sidebar {
+	background: #292929 !important;
+}
+.subMenu {
+	padding-top:40px;
+}
